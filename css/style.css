@@ -1,0 +1,7 @@
+fieldset {
+  /*border: none;*/
+}
+
+input {
+  display: inline-block;
+}
